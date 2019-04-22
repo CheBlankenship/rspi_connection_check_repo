@@ -1,6 +1,6 @@
 # rspi_connection_check_repo
 
-
+- Small note for me
 git push --set-upstream origin master
 fatal: unable to access 'https://github.com/CheBlankenship/rspi_connection_check_repo.git/': Failed to connect to github.com port 443: No route to host
 pi@raspberrypi:~/cheb/practice_rspi/ch_01/connect_rspi_git $ sudo dhclient wlan0
